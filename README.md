@@ -1,2 +1,131 @@
 # The-Effect-of-Bio-diesel-Blending-on-The-Performance-Parameters-of-CI-Engines
-We analysis of fuel properties, performance, emissions and combustion characteristics of biodiesel produced
+Objectives: -
+To investigate the ignition characteristics of Diesel, Bio Diesel & Blended Bio Diesel.
+To evaluate the performance parameters, such as power output and fuel consumption, of the engine using Diesel, Bio Diesel & Blended Bio Diesel.
+To compare the results obtained with pure Bio Diesel, blended Bio Diesel operation to conventional fossil fuel operation. 
+
+Methodology: -
+1.	Selection of Fuels for the Experiment.
+2.	Determination of Ignition Properties.
+3.	Determination of Calorific Value for different types of fuels.
+4.	Selection of C.I test rig.
+5.	Load test Experiment on the engine for all the fuels selected.
+6.	Evaluation of performance parameters of the selected fuels.
+7.	Comparison of Engine performance parameters for various types of fuels used.  
+
+
+                                    ENGINE MODEL FOR OUR PROJECT WORK
+
+The Kirloskar group of companies was one of the earliest industrial groups in the engineering industry in India. The group produces Centrifugal pumps, engines, compressors, screw & centrifugal chillers, lathes and electrical equipment’s like electric motors, transformer and generators. In the agricultural sector, Kirloskar fulfils the motive power products in the range of 1.5 hp to 28 hp.
+Single Cylinder Kirloskar AV1 5HP Water Cooled Diesel Engine: -
+
+Cylinder: Single Cylinder, Stroke: 4Stroke, Brand: Kirloskar, Compression Ratio: 16.5:1, Fuel Tank Capacity: 6.5L, 	   Cubic Capacity: 0.553L
+
+                                     SELECTION OF FUELS FOR EXPERIMENT
+
+1.	High Speed Diesel Bharat Stage 6 (HSD BS6, Cetane No. 51)
+Grossly available in the market
+2.	Xtra Green Premium (Cetane No. 55)
+Premium Diesel Fuel available in the market
+3.	2nd Generation Bio Diesel (Feedstock- Methyl Alcohol, Animal Tallow)
+
+Bio Diesel has been blended in 5%, 10%, 20%, 50% with HSD BS6 & Xtra Green Premium. 
+
+
+                    B5 HSD BS6 (5% Bio Diesel Blended)	B5 XTRA GREEN (5% Bio Diesel Blended)
+                    B10 HSD BS6 (10% Bio Diesel Blended)	B10 XTRA GREEN (10% Bio Diesel Blended) 
+                    B20 HSD BS6 (20% Bio Diesel Blended)	B20 XTRA GREEN (20% Bio Diesel Blended)
+                    B50 HSD BS6 (50% Bio Diesel Blended)	B50 XTRA GREEN (50% Bio Diesel Blended)
+
+
+The experiments conducted: -
+Flash Point & Fire Point using Pensky Martens Apparatus, and Measuring Calorific Value using Bomb Calorimeter.
+
+Flash Point: - The lowest temperature at which vapours above a volatile combustible substance ignite in air when exposed to flame is known as Flash Point. 
+Fire Point: - The minimum temperature at which a flammable or combustible liquid, as herein defined, and some volatile combustible solids will evolve sufficient vapor to produce a mixture with air that will support sustained combustion when exposed to a source of ignition, such as a spark or flame.
+Bomb Calorimeter: - The bomb calorimeter an apparatus primarily used for measuring heats of combustion. The reaction takes place in a closed space known as the calorimeter proper, in controlled thermal contact with its surroundings, the jacket, at constant temperature. By using bomb calorimeter, the calorific values are calculated.
+Calorific Value: - Calorific value is defined as the amount of calories generated when a unit amount of substance is completely oxidized and is determined using the bomb calorimeter. The calorific value of coal represents gross calorific value (HG), which contains the latent heat of water vaporization.
+
+                             
+              MEASURING CALORIFIC VALUE USING BOMB CALORIMETER 
+
+Observations table and column chart of Bomb Calorimeter Test,
+Fuel Name	              CV (KJ/Kg)
+HSD-BS-VI              	 45627
+B-5 HSD BS-VI	           45395.65
+B-10 HSD BS-VI	         45164.3
+B-20 HSD BS-VI	         44461.6
+B-50 HSD BS-VI	         43313.5
+Xtra Green	             45627
+B-5 Xtra Green	         45395.65
+B-10 Xtra Green	         45164.3
+B-20 Xtra Green	         44461.6
+B-50 Xtra Green	         43313.5
+B-100	                   41000
+
+
+Evaluation of performance parameters of Diesel Engine using various types & grades of Diesel fuel
+List of performance parameter taken for the evaluation: 
+BREAK POWER (B.P):
+TOTAL FUEL CONSUMPTION (T.F.C):
+SPECIFIC FUEL CONSUMPTION (S.F.C):
+BRAKE THERMAL EFFICIENCY (ᶯbth):
+
+EXPERIMENTAL PROCEDURE:
+	 Fill the oil sump by desire oil with care.
+	 Supply the Electrical power source.
+	 Open the water supply valve.
+	 Start the Diesel Engine by an external handle. Remove the handle and close the valve after engine start continuously.
+	 Engine gives start continuously with no load up to 5 mints.
+	 Increase the load up to half load or 0.5 Amp.
+	 Take necessary data as Head difference from manometer, Engine speed by tachometer, load in kg, different temperature and fuel consumption time for 5 ml.
+	 Increase the load up to full load or 1 Amp and take all data as taken before.
+	 Collect all necessary data for the experiment.
+	 Stop the engine.
+	 For nest experiment, new mixture is made and poured into the oil sump.
+	 Start engine as before and note down all data from the experiment.
+	 Take all necessary data.
+	 Stop the engine.
+
+Formula used:
+
+	BREAK POWER (B.P):
+Brake power is defined as the net power available at the crankshaft. It is calculated by measuring the output torque with a dynamometer.
+
+Where,
+B.P = Break power in kW
+R= Radius of Brake coupling =0.1 m
+N = Speed of Engine
+W = Load in kg
+
+	TOTAL FUEL CONSUMPTION (T.F.C):
+
+Where,
+T.F.C = Total fuel consumption in kg/hr
+S = Specific gravity of fuel
+t = Time for 5cc of fuel consumption in sec
+
+	SPECIFIC FUEL CONSUMPTION (S.F.C):
+
+Where,
+S.F.C= specific fuel consumption in kg/kw-hr
+
+	BRAKE THERMAL EFFICIENCY (ᶯbth):
+
+
+
+	C.V OF BLENDED FUEL:
+C.V of blended fuel
+
+
+Where,
+A- One type of fuel
+B= Other type of fuel
+
+	SPECIFIC GRAVITY OF BLENDED FUEL:
+Specific gravity of blended fuel
+
+
+Where, X is the percentage of biodiesel in the blended mixture
+
+ 
